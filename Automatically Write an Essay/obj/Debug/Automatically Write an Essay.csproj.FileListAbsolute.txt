@@ -1,0 +1,6 @@
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Automatically Write an Essay\Automatically Write an Essay\Automatically Write an Essay\bin\Debug\Automatically Write an Essay.exe.config
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Automatically Write an Essay\Automatically Write an Essay\Automatically Write an Essay\obj\Debug\Automatically Write an Essay.csprojResolveAssemblyReference.cache
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Automatically Write an Essay\Automatically Write an Essay\Automatically Write an Essay\bin\Debug\Automatically Write an Essay.exe
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Automatically Write an Essay\Automatically Write an Essay\Automatically Write an Essay\bin\Debug\Automatically Write an Essay.pdb
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Automatically Write an Essay\Automatically Write an Essay\Automatically Write an Essay\obj\Debug\Automatically Write an Essay.exe
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\Automatically Write an Essay\Automatically Write an Essay\Automatically Write an Essay\obj\Debug\Automatically Write an Essay.pdb
