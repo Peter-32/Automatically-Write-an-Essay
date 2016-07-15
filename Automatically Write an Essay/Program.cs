@@ -32,7 +32,7 @@ namespace Automatically_Write_an_Essay
         static Model()
         {
             // DEFINE THESE TWO LINES WITH INPUT
-            wordLimit = 20000;
+            wordLimit = 500;
             fileInput = System.IO.File.ReadAllText(@"C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\input_output\pride_and_prejudice.txt");
             // The essay starts blank and the character limit is set to 20 times the word limit.
             essay = new StringBuilder("", wordLimit * 20);
